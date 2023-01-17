@@ -1,0 +1,36 @@
+/* Write your CSS code here */
+.wave-img-style {
+  width: 30%;
+
+  margin-right: 10px;
+}
+.nxt-wave-img {
+  display: flex;
+
+  align-items: center;
+}
+
+.heading-text {
+  font-weight: bold;
+}
+
+li {
+  list-style-type: none;
+  margin-right: 10px;
+  font-weight: bold;
+  font-size: 20px;
+}
+ul {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.nav-style {
+  display: flex;
+  justify-content: space-between;
+}
+
+body {
+  font-family: Roboto;
+  font-weight: bold;
+}
